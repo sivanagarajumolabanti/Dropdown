@@ -1,3 +1,7 @@
+to install the pacakages npm install
+To Start the applaication npm start
+
+
 Credentials:
 Login(ADMIN):
 
